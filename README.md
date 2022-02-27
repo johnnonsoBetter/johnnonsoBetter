@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnonsoBetter&count_private=true&show_icons=true)
 )](https://github.com/johnnonsoBetter/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnonsoBetter&repo=github-readme-stats)](https://github.com/johnnonsoBetter/github-readme-stats)
