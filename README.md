@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnonsoBetter&count_private=true&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnonsoBetter&layout=compact)](https://github.com/johnnonsoBetter/github-readme-stats)
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
