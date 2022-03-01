@@ -1,6 +1,6 @@
 
   
-  <a href="https://www.linkedin.com/in/john-nonso" target="_blank"><img alt="LinkedIn" src="https://www.codeyplus.com/images/codey.png" /></a>
+  <a href="https://www.codeyplus.com/" target="_blank"><img alt="LinkedIn" src="https://www.codeyplus.com/images/codey.png" /></a>
 
 
 ### ...
