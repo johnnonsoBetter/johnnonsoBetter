@@ -38,6 +38,6 @@
   
   </p> 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnonsoBetter)](https://github.com/johnnonsoBetter/github-readme-stats)
 
 
