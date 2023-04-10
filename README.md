@@ -37,4 +37,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnonsoBetter)](https://github.com/johnnonsoBetter/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnonsoBetter&langs_count=8)](https://github.com/johnnonsoBetter/github-readme-stats)
