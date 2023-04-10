@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on: ... Project review platform.
+- 🔭 I’m currently working on: ... Mind Mapper Project
 - 🌱 I’m currently learning: ... how to improve my problem solving skills and how learning works generally
 - 📫 How to reach me: ... [Website](https://www.codeyplus.com/)
 - 😄 Pronouns: ... He/Him
