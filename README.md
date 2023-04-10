@@ -1,9 +1,5 @@
 
   
-  <a href="https://www.codeyplus.com/" target="_blank"><img alt="LinkedIn" src="https://www.codeyplus.com/images/codey.png" /></a>
-
-
-### ...
 
 
 ### Hey! I'm John and I love building useful software application. 👋
